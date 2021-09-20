@@ -1,3 +1,8 @@
+/* I was not sure what you mean by make sure code runs, so
+I added console.log statements to show output. But I do 
+know the program was still running without them and the output 
+statements were not part of the assignment. */
+
 let myNumber=5; //question 1 and 2
 console.log(myNumber)
 
